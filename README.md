@@ -1,5 +1,7 @@
 ## **TP Responsive Web Design React**
 
+Ce TP a été fait en collaboration, pair programming, avec Raphaël Séguin et Aurelio Rognetta.
+
 ![](img/exemple.gif)
 
 1. Ajouter [Reactstrap](https://reactstrap.github.io/) à votre projet
